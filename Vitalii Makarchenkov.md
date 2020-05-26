@@ -18,33 +18,27 @@ Address: Zdolbuniv, Rivne oblast, Ukraine
 
 September 2019 – April 2020
 
-JavaScript Developer (remote)
-- Develop mobile applications on Ionic
+#### JavaScript Developer (remote)
+- Updating hybrid applications from Ionic 3 to Ionic 4
+- Developing PWA and hybrid applications using Ionic 4, Angular 7 and 8, Firebase and Strapi.io
 
 ### GPO Technologies
 
 November 2018 – June 2019
 
-JavaScript Developer
-- Development web and mobile applications
-- Setup and maintain CI/CD process
+#### JavaScript Developer
+- Developing web and hybrid mobile applications using Ionic 3 and 4, Angular 7, Nebular, MySQL, JHipster and RabbitMQ
+- Setting and maintaining CI/CD process using CircleCI
 
 ### The Brach "Vector" of the PE "Silbud"
 
 June 2012 – November 2018
 
-Chief Engineer
+#### Chief Engineer
 - Preparation and maintenance of executive documentation.
 - Control over the quality of construction works.
 - Development of budget documentation.
 - Work with supervisory authorities and customers.
-
-### "Zdolbunivzem" LTD
-
-March 2014 - November 2014
-
-Design engineer
-- Development of budget documentation
 
 ## EDUCATION:
 
@@ -52,17 +46,14 @@ National University of Water and Environmental Engineering
 2002 - 2006 Bachelor's degree in Industrial and Civil Engineering
 
 ## COURSES:
-July – August 2018 – JavaScript Development Fundamentals; SoftServe University
+
+SoftServe University
+February - May 2020 - Development, Design and Architecture of Modern Software Systems based on Object-Oriented Languages Dates attended or expected graduation 
+July - August 2018 - JavaScript Development Fundamentals
 
 ## SKILLS AND PROFICIENCIES:
-- Languages: TypeScript, JavaScript, Python
-- Tools: git, Github, Bitbucket, Gitlab, Jira, Confluence, Docker, npm, virtualenv
-- Knowledge: REST, Linux, HTML/CSS
-- Basic knowledge: Node.js, Java, Mongo
+- Languages: TypeScript, Java, JavaScript/HTML/CSS, Python
+- Frameworks: Angular 2+, Spring, NestJS
+- Tools: Git, Docker, AWS
+- Knowledge: OOP, REST, DevOps, Agile, Linux, Node.js, Mongo, PostgreSQL, Android
 - English: Intermediate
-
-## DEVELOPMENT EXPERIENCE:
-- Developed a web admin application for smart house from scratch. Used Angular 7
-and Nebular 3 frameworks.
-- Developed mobile applications on Ionic 3 and 4.
-- Developed backend service on NestJS
