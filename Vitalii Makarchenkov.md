@@ -47,8 +47,14 @@ National University of Water and Environmental Engineering
 
 ## COURSES:
 
-SoftServe University
-February - May 2020 - Development, Design and Architecture of Modern Software Systems based on Object-Oriented Languages Dates attended or expected graduation 
+### Coursera
+
+January - February 2020 - Learning How to Learn: Powerful mental tools to help you master tough subjects
+
+### SoftServe University
+
+February - May 2020 - Development, Design and Architecture of Modern Software Systems based on Object-Oriented Languages
+
 July - August 2018 - JavaScript Development Fundamentals
 
 ## SKILLS AND PROFICIENCIES:
