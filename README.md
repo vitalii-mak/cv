@@ -14,6 +14,13 @@ Address: Zdolbuniv, Rivne oblast, Ukraine
 
 ## PROFESSIONAL EXPERIENCE:
 
+### SoftServe
+
+November 2020 - Present
+
+### Software Engineer
+- Software development
+
 ### WWWest.solutions
 
 September 2019 – April 2020
